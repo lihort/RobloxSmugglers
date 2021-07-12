@@ -1,4 +1,9 @@
-# RobloxSmugglers
-
-Website is still in developement, So join my discord server
-https://discord.gg/urPYTmv9cd
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://www.w3docs.com'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://www.w3docs.com">this link</a>.</p>
+  </body>
+</html>
