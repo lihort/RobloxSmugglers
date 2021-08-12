@@ -1,2 +1,2 @@
-##Roblox Smugglers
+Roblox Smugglers
 Site coming soon
